@@ -1,0 +1,11 @@
+Automação de Tarefas
+
+1 - Entrar no sistema em que os produtos serão cadastrados;
+    https://dlp.hashtagtreinamentos.com/python/intensivao/login
+2 - Fazer login;
+3 - Importar base de dados;
+4 - Cadastrar 1 produto;
+5 - Repetir processo até todos produtos serem cadastrados;
+
+
+Biblioteca: pyautogui (pip install pyautogui)
